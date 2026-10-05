@@ -1,0 +1,5 @@
+# Compiled C executables
+bin/
+
+# macOS
+.DS_Store
